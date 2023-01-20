@@ -6,7 +6,10 @@ OGLE_III  : https://drive.google.com/file/d/1lwm12VdRICK1G57b6O0oEHGmDLsa7b2K/vi
 
 OGLE_IV   : https://drive.google.com/file/d/10dNHKQn2ubI8X7dYR98yfUKbSEahA44N/view?usp=sharing 
 
-For the second step, we need features to classify variable stars by traditional methods like Random Forest (RF) and Support Vector Classification (SVC). We used a package named [FEETS](https://feets.readthedocs.io/en/latest/)  for feature extraction and designed a table with selected features. 
+
+For the second step, we need features to classify variable stars by traditional methods like Random Forest (RF) and Support Vector Classification (SVC). We used a package named [FEETS](https://feets.readthedocs.io/en/latest/)  for feature extraction and designed a table with selected features.
+
+Do not hesitate if you have a question about datasets. 
 
 
 
