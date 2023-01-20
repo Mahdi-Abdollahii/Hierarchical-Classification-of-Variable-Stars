@@ -2,8 +2,7 @@ In this directory, I share datasets used in this work and some critical informat
 
 In this project, we use data from [OGLE Telescope](http://ogle.astrouw.edu.pl/) in Chile. This survey collected data in the I and V bands from stars in most parts of the milky way, LMC and SMC. Following figure shows its fooprint in sky.
 
-![alt text]()
-<img src="http://www.astrouw.edu.pl/~jskowron/ogle4-sky/OGLE-IV-footprint2018-cap1800.png" style=" width:600px ; height:600px "  >
+![alt text](http://www.astrouw.edu.pl/~jskowron/ogle4-sky/OGLE-IV-footprint2018-cap1800.png)
 
 For the first and second milestones, we used the OGLE_III datasets, and for the third ones, we used the OGLE_IV datasets. Both catalogs contain general information about variable stars and their magnitude time series data. Due to the huge amount of data, I could not upload them here. So you can download them by the below links from my google drive.
 
