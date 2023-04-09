@@ -10,7 +10,7 @@ OGLE_III_ALL_STARS : https://drive.google.com/file/d/1E27r0E7hvdeAiulw-JdUIX6dQs
 
 OGLE_III  : https://drive.google.com/file/d/1lwm12VdRICK1G57b6O0oEHGmDLsa7b2K/view?usp=sharing 
 
-OGLE_IV   : https://drive.google.com/file/d/10dNHKQn2ubI8X7dYR98yfUKbSEahA44N/view?usp=sharing 
+OGLE_IV   : https://drive.google.com/file/d/1geFI1P_FKLm2HYrcdFVNNuKHpbNa1pza/view?usp=sharing 
 
 For the second step, we need features to classify variable stars by traditional methods like Random Forest (RF) and Support Vector Classification (SVC). We used a package named [FEETS](https://feets.readthedocs.io/en/latest/)  for feature extraction and designed a table with selected features.
 
