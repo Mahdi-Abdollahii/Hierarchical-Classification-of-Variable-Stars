@@ -5,3 +5,5 @@ This project had several milestones, which I share in separate directories:
   1. Exploratory Data Analysis (EDA) 
   2. classification using traditional methods like RF, SVC, KNN
   3. Classification Using Neural Networks
+
+ArXive link: https://arxiv.org/abs/2301.08497
